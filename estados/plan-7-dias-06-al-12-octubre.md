@@ -51,6 +51,7 @@ Cada día suma **un estado especial** con un formato distinto. Las historias de 
 
 ## Día 3 · Jueves 8: pregunta para interactuar
 
+- **Imagen:** `imagenes/estados-06-al-12-octubre/2026-10-08-jue-estado-lomo-o-hamburguesa-historia.jpg`
 - **Objetivo:** generar respuestas. Las respuestas le muestran al algoritmo que el contenido interesa, y en WhatsApp abren conversaciones.
 - **Gancho:** Pregunta seria: ¿lomo o hamburguesa?
 - **Texto:**
@@ -63,6 +64,7 @@ Cada día suma **un estado especial** con un formato distinto. Las historias de 
 
 ## Día 4 · Viernes 9: oferta por tiempo limitado (solo hoy)
 
+- **Imagen:** `imagenes/estados-06-al-12-octubre/2026-10-09-vie-estado-solo-hoy-historia.jpg`
 - **Objetivo:** vender con urgencia.
 - ⚠️ Solo publicalo si ese día la promo se cobra a ese precio **únicamente hoy**.
 - **Gancho:** Solo hoy viernes: 2 lomos por $22.000.
@@ -76,6 +78,7 @@ Cada día suma **un estado especial** con un formato distinto. Las historias de 
 
 ## Día 5 · Sábado 10: detrás de escena
 
+- **Imagen:** `imagenes/estados-06-al-12-octubre/2026-10-10-sab-estado-detras-de-escena-historia.jpg`
 - **Objetivo:** mostrar cómo trabajamos para generar confianza y antojo.
 - **Lo ideal:** grabá con el celular un **video de 10 a 15 segundos** del lomo en la plancha o del armado de una hamburguesa, en vertical y con la luz del local. Un video real funciona mejor que cualquier diseño. La imagen de este día sirve como portada o como alternativa.
 - **Gancho:** Así se arma tu pedido (spoiler: con mucho queso).
@@ -89,6 +92,7 @@ Cada día suma **un estado especial** con un formato distinto. Las historias de 
 
 ## Día 6 · Domingo 11: testimonios de clientes
 
+- **Imagen:** `imagenes/estados-06-al-12-octubre/2026-10-11-dom-estado-testimonios-historia.jpg`
 - **Objetivo:** generar confianza con opiniones reales.
 - **Importante:** no inventamos reseñas. Este estado **junta** opiniones reales, y las mejores se comparten la semana siguiente (con permiso del cliente).
 - **Gancho:** ¿Qué es lo que más te gusta de Punto Sabor?
@@ -103,6 +107,7 @@ Cada día suma **un estado especial** con un formato distinto. Las historias de 
 
 ## Día 7 · Lunes 12 (feriado): consejo útil, cómo pedir más rápido
 
+- **Imagen:** `imagenes/estados-06-al-12-octubre/2026-10-12-lun-estado-como-pedir-historia.jpg`
 - **Objetivo:** educar al cliente para que los pedidos salgan más rápido, sin idas y vueltas.
 - **Gancho:** Pedí en 1 solo mensaje y comé antes 😉
 - **Texto:**
