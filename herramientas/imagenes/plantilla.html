@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<style>
+  @font-face { font-family: Marker; src: url(fonts/marker.woff2) format("woff2"); }
+  @font-face { font-family: Anton; src: url(fonts/anton.woff2) format("woff2"); }
+  :root { --rojo: #e3101b; --amarillo: #ffc400; --negro: #0b0b0b; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1080px; height: 1350px; background: var(--negro); overflow: hidden; }
+  #post { position: relative; width: 1080px; height: 1350px; overflow: hidden; background: var(--negro);
+          font-family: Anton, sans-serif; color: #fff; }
+
+  /* Fondo */
+  .esquina { position: absolute; width: 520px; height: 90px; }
+  .esq-a { top: 38px; left: -150px; transform: rotate(-35deg); background: var(--rojo); }
+  .esq-b { top: -18px; left: -120px; transform: rotate(-35deg); background: var(--amarillo); height: 70px; }
+  .esq-c { top: 38px; right: -150px; transform: rotate(35deg); background: var(--amarillo); }
+  .esq-d { top: -18px; right: -120px; transform: rotate(35deg); background: var(--rojo); height: 70px; }
+  .fondo-foto { position: absolute; inset: -40px; background-size: cover; background-position: center;
+                filter: blur(16px) brightness(.38) saturate(1.2); }
+  .vineta { position: absolute; inset: 0; background: radial-gradient(ellipse at center, transparent 35%, rgba(0,0,0,.75) 100%); }
+
+  /* Logo */
+  .logo { position: absolute; top: 34px; left: 50%; width: 190px; height: 190px; margin-left: -95px;
+          border-radius: 50%; overflow: hidden; box-shadow: 0 0 0 5px rgba(255,196,0,.25), 0 10px 40px rgba(227,16,27,.55); }
+  .logo .crop { width: 100%; height: 100%; }
+
+  /* Títulos */
+  .titulo { position: absolute; left: 40px; right: 40px; text-align: center; font-family: Marker, cursive;
+            line-height: .95; text-transform: uppercase; text-shadow: 0 6px 0 rgba(0,0,0,.55), 0 0 30px rgba(0,0,0,.6);
+            transform: rotate(-3deg); }
+  .titulo .linea { display: block; white-space: nowrap; }
+  .blanco { color: #fff; } .amarillo { color: var(--amarillo); } .rojo { color: var(--rojo); }
+  .numero { position: absolute; left: 0; right: 0; text-align: center; font-family: Marker, cursive; color: var(--amarillo);
+            font-size: 470px; line-height: 1; text-shadow: 0 10px 0 rgba(0,0,0,.6), 0 0 60px rgba(227,16,27,.7); transform: rotate(-4deg); }
+
+  .pincel { position: absolute; left: 50%; transform: translateX(-50%) rotate(-2deg); white-space: nowrap;
+            font-family: Anton, sans-serif; font-size: 50px; letter-spacing: 1px; color: #fff; padding: 10px 46px 12px;
+            background: var(--rojo);
+            clip-path: polygon(2% 12%, 30% 0, 62% 8%, 98% 0, 100% 40%, 97% 88%, 70% 100%, 35% 92%, 3% 100%, 0 60%); }
+  .pincel.amarillo-bg { background: var(--amarillo); color: var(--negro); }
+
+  /* Fotos */
+  .foto { position: absolute; border: 5px solid var(--amarillo); border-radius: 26px; overflow: hidden;
+          box-shadow: 0 18px 50px rgba(0,0,0,.7); background: #222; }
+  .foto .crop { width: 100%; height: 100%; }
+  .etiqueta-foto { position: absolute; font-family: Marker, cursive; font-size: 44px; color: #fff; text-transform: uppercase;
+                   text-shadow: 0 4px 0 #000, 0 0 18px #000; white-space: nowrap; }
+  .crop { background-repeat: no-repeat; }
+
+  /* Precio */
+  .precio { position: absolute; background: var(--amarillo); color: var(--negro); font-family: Anton, sans-serif;
+            padding: 6px 34px 10px; transform: rotate(-4deg); white-space: nowrap; box-shadow: 0 10px 30px rgba(0,0,0,.6);
+            clip-path: polygon(3% 8%, 50% 0, 98% 6%, 100% 50%, 97% 96%, 50% 100%, 1% 94%, 0 45%); }
+  .precio small { display: block; font-size: .36em; letter-spacing: 1px; line-height: 1.1; margin-bottom: -4px; }
+
+  /* Filas de promos */
+  .fila { position: absolute; left: 60px; right: 60px; height: 250px; border: 4px solid var(--amarillo); border-radius: 24px;
+          overflow: hidden; background: #000; }
+  .fila .crop { position: absolute; right: 0; top: 0; bottom: 0; width: 56%; }
+  .fila .crop::after { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, #000 0%, transparent 35%); }
+  .fila .txt { position: absolute; left: 30px; top: 30px; width: 46%; }
+  .fila .nombre { font-family: Marker, cursive; font-size: 44px; line-height: 1.05; text-transform: uppercase; }
+  .fila .monto { display: inline-block; margin-top: 18px; background: var(--amarillo); color: var(--negro); font-size: 56px;
+                 padding: 2px 22px 6px; transform: rotate(-3deg); }
+
+  /* Pie */
+  .pie { position: absolute; left: 0; right: 0; bottom: 0; height: 128px; background: var(--rojo);
+         display: flex; align-items: center; justify-content: center; gap: 22px;
+         clip-path: polygon(0 18%, 18% 6%, 45% 14%, 72% 2%, 100% 12%, 100% 100%, 0 100%); padding-top: 14px; }
+  .pie .tel { font-size: 62px; letter-spacing: 1px; }
+  .pie .tel b { color: var(--amarillo); font-weight: normal; }
+  .pie svg { width: 58px; height: 58px; flex: none; }
+  .pie .lugar { font-size: 26px; line-height: 1.05; text-align: left; color: #fff; opacity: .95; border-left: 3px solid rgba(255,255,255,.6); padding-left: 18px; }
+</style>
+</head>
+<body>
+<div id="post"></div>
+<script>
+// Rellena un div con un recorte {src, x, y, w, h} de una imagen de referencia, en modo "cover".
+function recortar(el, c, tamaños) {
+  const r = el.getBoundingClientRect();
+  const W = r.width || el.offsetWidth, H = r.height || el.offsetHeight;
+  const s = Math.max(W / c.w, H / c.h);
+  const [iw, ih] = tamaños[c.src];
+  const ox = (W - c.w * s) / 2, oy = (H - c.h * s) / 2;
+  el.style.backgroundImage = `url("${c.base}${c.src}")`;
+  el.style.backgroundSize = `${iw * s}px ${ih * s}px`;
+  el.style.backgroundPosition = `${ox - c.x * s}px ${oy - c.y * s}px`;
+}
+
+// Achica el texto hasta que entre en el ancho disponible.
+function ajustar(el, max) {
+  let f = parseFloat(getComputedStyle(el).fontSize);
+  while (el.scrollWidth > max && f > 10) { f -= 2; el.style.fontSize = f + "px"; }
+}
+
+const TEL_SVG = `<svg viewBox="0 0 24 24" fill="#fff"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm5.3 14.2c-.2.6-1.3 1.2-1.8 1.2-.5.1-1 .1-1.7-.1a15 15 0 0 1-1.5-.6 11.9 11.9 0 0 1-4.6-4c-.3-.5-.9-1.5-.9-2.8s.7-2 1-2.3c.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 2c.1.1.1.3 0 .5l-.3.5-.4.4c-.1.2-.3.3-.1.6.2.3.8 1.3 1.6 2 1.1 1 2 1.3 2.3 1.4.3.1.5.1.6-.1l.9-1c.2-.3.4-.2.6-.1l1.9.9c.3.1.5.2.5.3.1.2.1.7-.1 1.3z"/></svg>`;
+
+window.renderPost = function (p, tamaños) {
+  const post = document.getElementById("post");
+  let h = "";
+  if (p.fondo) h += `<div class="fondo-foto" data-crop='${JSON.stringify(p.fondo)}'></div><div class="vineta"></div>`;
+  h += `<div class="esquina esq-b"></div><div class="esquina esq-a"></div><div class="esquina esq-d"></div><div class="esquina esq-c"></div>`;
+  h += `<div class="logo"><div class="crop" data-crop='${JSON.stringify(p.logo)}'></div></div>`;
+  if (p.numero) h += `<div class="numero" style="top:${p.numero.top}px">${p.numero.texto}</div>`;
+  if (p.titulo) {
+    h += `<div class="titulo" style="top:${p.titulo.top}px">` +
+      p.titulo.lineas.map(l => `<span class="linea ${l.color}" style="font-size:${l.size}px">${l.texto}</span>`).join("") + `</div>`;
+  }
+  for (const s of p.pinceles || [])
+    h += `<div class="pincel ${s.amarillo ? "amarillo-bg" : ""}" style="top:${s.top}px;font-size:${s.size || 50}px">${s.texto}</div>`;
+  for (const f of p.fotos || []) {
+    h += `<div class="foto" style="left:${f.left}px;top:${f.top}px;width:${f.width}px;height:${f.height}px"><div class="crop" data-crop='${JSON.stringify(f.crop)}'></div></div>`;
+    if (f.etiqueta) h += `<div class="etiqueta-foto" style="left:${f.left + 26}px;top:${f.top + 18}px">${f.etiqueta}</div>`;
+  }
+  for (const r of p.filas || [])
+    h += `<div class="fila" style="top:${r.top}px"><div class="crop" data-crop='${JSON.stringify(r.crop)}'></div>
+          <div class="txt"><div class="nombre">${r.nombre}</div><div class="monto">${r.monto}</div></div></div>`;
+  for (const pr of p.precios || [])
+    h += `<div class="precio" style="${pr.pos};font-size:${pr.size || 92}px">${pr.chico ? `<small>${pr.chico}</small>` : ""}${pr.texto}</div>`;
+  h += `<div class="pie">${TEL_SVG}<div class="tel">WHATSAPP <b>385 456-6585</b></div><div class="lugar">PUNTO SABOR<br>FRÍAS</div></div>`;
+  post.innerHTML = h;
+
+  document.querySelectorAll("[data-crop]").forEach(el => recortar(el, JSON.parse(el.dataset.crop), tamaños));
+  document.querySelectorAll(".titulo .linea").forEach(el => ajustar(el, 1000));
+  document.querySelectorAll(".pincel").forEach(el => ajustar(el, 1000));
+};
+</script>
+</body>
+</html>

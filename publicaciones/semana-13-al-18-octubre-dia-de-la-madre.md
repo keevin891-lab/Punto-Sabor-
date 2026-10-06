@@ -2,6 +2,8 @@
 
 12 publicaciones (20:00 y 23:00 hs). Toda la semana va armando expectativa para el **domingo 18, Día de la Madre**.
 
+> 🖼️ **Las imágenes ya están listas** en `imagenes/semana-13-al-18-octubre/`, con el día y la hora en el nombre (por ejemplo `2026-10-09-vie-2000-2-lomos.jpg` es la del viernes 9 a las 20:00). Subilas tal cual. Los "Pedidos de imagen" quedan por si preferís hacer otra versión con ChatGPT.
+
 - **Imágenes:** antes de empezar, seguí `guia-de-estilo.md` (un chat nuevo en ChatGPT + las 2 imágenes de referencia + el texto de estilo). Después pegá cada "Pedido de imagen".
 - **Hashtags:** están en `guia-de-estilo.md`. Esta semana sumá `#DíaDeLaMadre #MamáNoCocina` a todas las publicaciones.
 
