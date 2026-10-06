@@ -1,6 +1,6 @@
 # Punto Sabor: publicidad en redes
 
-Contenido para Instagram (@punto.sabor9julio) y Facebook de Punto Sabor, Frías. WhatsApp 385 456-6585.
+Contenido para Instagram (@punto.sabor9julio) y Facebook de Punto Sabor, comidas rápidas al paso en Mitre 146, frente a la plaza 9 de Julio, Frías. WhatsApp 385 456-6585.
 
 | Archivo | Para qué sirve |
 |---|---|

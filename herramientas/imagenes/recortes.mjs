@@ -9,12 +9,14 @@ export const TAMAÑOS = {
   "este-lunes.png": [1024, 1536],
   "nuevos-sabores.png": [941, 1671],
   "promos.png": [1024, 1536],
+  "logo.jpg": [1512, 1512],
+  "local-al-paso.png": [1254, 1254],
 };
 
 const r = (src, x, y, w, h) => ({ base, src, x, y, w, h });
 
 export const R = {
-  logo: r("este-lunes.png", 398, 17, 228, 228),
+  logo: r("logo.jpg", 100, 106, 1312, 1312),
   lomo: r("este-lunes.png", 0, 845, 480, 270),
   hamburguesa: r("este-lunes.png", 495, 860, 529, 310),
   lomoYHamburguesa: r("este-lunes.png", 0, 850, 1024, 320),
@@ -29,4 +31,10 @@ export const R = {
   dosHamburguesas: r("promos.png", 519, 930, 490, 203),
   pancho: r("promos.png", 15, 1325, 490, 181),
   tostado: r("promos.png", 519, 1330, 490, 176),
+  local: r("local-al-paso.png", 60, 330, 840, 310),
+  milanesa: r("local-al-paso.png", 20, 950, 460, 140),
+  mesaCompleta: r("local-al-paso.png", 0, 640, 1254, 440),
+  burgerLocal: r("local-al-paso.png", 172, 690, 408, 282),
+  lomoYPancho: r("local-al-paso.png", 643, 752, 548, 328),
+  conoPapas: r("local-al-paso.png", 549, 658, 258, 220),
 };

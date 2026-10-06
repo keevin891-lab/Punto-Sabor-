@@ -67,12 +67,12 @@
 
   /* Pie */
   .pie { position: absolute; left: 0; right: 0; bottom: 0; height: 128px; background: var(--rojo);
-         display: flex; align-items: center; justify-content: center; gap: 22px;
+         display: flex; align-items: center; justify-content: center; gap: 18px;
          clip-path: polygon(0 18%, 18% 6%, 45% 14%, 72% 2%, 100% 12%, 100% 100%, 0 100%); padding-top: 14px; }
-  .pie .tel { font-size: 62px; letter-spacing: 1px; }
+  .pie .tel { font-size: 54px; letter-spacing: 1px; }
   .pie .tel b { color: var(--amarillo); font-weight: normal; }
   .pie svg { width: 58px; height: 58px; flex: none; }
-  .pie .lugar { font-size: 26px; line-height: 1.05; text-align: left; color: #fff; opacity: .95; border-left: 3px solid rgba(255,255,255,.6); padding-left: 18px; }
+  .pie .lugar { font-size: 25px; line-height: 1.05; text-align: left; color: #fff; opacity: .95; border-left: 3px solid rgba(255,255,255,.6); padding-left: 18px; }
 </style>
 </head>
 <body>
@@ -120,7 +120,7 @@ window.renderPost = function (p, tamaños) {
           <div class="txt"><div class="nombre">${r.nombre}</div><div class="monto">${r.monto}</div></div></div>`;
   for (const pr of p.precios || [])
     h += `<div class="precio" style="${pr.pos};font-size:${pr.size || 92}px">${pr.chico ? `<small>${pr.chico}</small>` : ""}${pr.texto}</div>`;
-  h += `<div class="pie">${TEL_SVG}<div class="tel">WHATSAPP <b>385 456-6585</b></div><div class="lugar">PUNTO SABOR<br>FRÍAS</div></div>`;
+  h += `<div class="pie">${TEL_SVG}<div class="tel">WHATSAPP <b>385 456-6585</b></div><div class="lugar">MITRE 146 · FRÍAS<br>FRENTE PLAZA 9 DE JULIO</div></div>`;
   post.innerHTML = h;
 
   document.querySelectorAll("[data-crop]").forEach(el => recortar(el, JSON.parse(el.dataset.crop), tamaños));
