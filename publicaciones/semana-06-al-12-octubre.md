@@ -2,7 +2,7 @@
 
 14 publicaciones (20:00 y 23:00 hs) con los productos y precios reales de la carta, listas para cargar en **Meta Business Suite** (Instagram @punto.sabor9julio + página de Facebook).
 
-> 🖼️ **Las imágenes ya están listas** en `imagenes/semana-06-al-12-octubre/`, con el día y la hora en el nombre (por ejemplo `2026-10-09-vie-2000-2-lomos.jpg` es la del viernes 9 a las 20:00). Subilas tal cual. Los "Pedidos de imagen" quedan por si preferís hacer otra versión con ChatGPT.
+> 🖼️ **Las imágenes ya están listas** en `imagenes/semana-06-al-12-octubre/`, con el día y la hora en el nombre (por ejemplo `2026-10-09-vie-2000-2-lomos.jpg` es la del viernes 9 a las 20:00). Subilas tal cual. Para los **estados de WhatsApp y las historias de Instagram y Facebook** usá las versiones verticales de la subcarpeta `historias/`. Los "Pedidos de imagen" quedan por si preferís hacer otra versión con ChatGPT.
 
 **WhatsApp:** 385 456-6585 · **Link directo:** `https://wa.me/5493854566585`
 

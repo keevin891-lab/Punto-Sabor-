@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<style>
+  @font-face { font-family: Anton; src: url(fonts/anton.woff2) format("woff2"); }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1080px; height: 1920px; background: #0b0b0b; overflow: hidden; }
+  #historia { position: relative; width: 1080px; height: 1920px; overflow: hidden; background: #0b0b0b; }
+  .fondo { position: absolute; inset: -60px; background-size: cover; background-position: center;
+           filter: blur(28px) brightness(.35) saturate(1.3); }
+  .esquina { position: absolute; width: 560px; height: 80px; }
+  .a { top: 40px; left: -170px; transform: rotate(-35deg); background: #e3101b; }
+  .b { top: -10px; left: -140px; transform: rotate(-35deg); background: #ffc400; height: 60px; }
+  .c { top: 40px; right: -170px; transform: rotate(35deg); background: #ffc400; }
+  .d { top: -10px; right: -140px; transform: rotate(35deg); background: #e3101b; height: 60px; }
+  /* Caja segura: deja libres los 250 px de arriba y los 300 px de abajo para la interfaz de las apps. */
+  .caja { position: absolute; left: 40px; right: 40px; top: 270px; height: 1330px;
+          display: flex; align-items: center; justify-content: center; }
+  .caja img { max-width: 100%; max-height: 100%; border-radius: 28px; border: 5px solid #ffc400;
+              box-shadow: 0 24px 70px rgba(0,0,0,.8); }
+  .cta { position: absolute; left: 0; right: 0; top: 1630px; text-align: center; font-family: Anton, sans-serif;
+         color: #fff; font-size: 46px; letter-spacing: 2px; opacity: .9; }
+  .cta b { color: #ffc400; font-weight: normal; }
+</style>
+</head>
+<body>
+<div id="historia">
+  <div class="fondo" id="fondo"></div>
+  <div class="esquina b"></div><div class="esquina a"></div><div class="esquina d"></div><div class="esquina c"></div>
+  <div class="caja"><img id="img" alt=""></div>
+  <div class="cta">PEDÍ POR WHATSAPP <b>385 456-6585</b></div>
+</div>
+<script>
+window.cargar = (src) => new Promise((ok) => {
+  const img = document.getElementById("img");
+  document.getElementById("fondo").style.backgroundImage = `url("${src}")`;
+  img.onload = img.onerror = ok;
+  img.src = src;
+});
+</script>
+</body>
+</html>

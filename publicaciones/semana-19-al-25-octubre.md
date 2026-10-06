@@ -2,7 +2,7 @@
 
 14 publicaciones (20:00 y 23:00 hs). Es una semana sin feriados: el foco está en los productos que todavía no destacamos (Tradicional, Burger Roquefort, Calabresa, Fugazzeta, Napolitana, Muzza, cono de papas). El domingo arranca la cuenta regresiva para **Halloween (sábado 31)**.
 
-> 🖼️ **Las imágenes ya están listas** en `imagenes/semana-19-al-25-octubre/`, con el día y la hora en el nombre (por ejemplo `2026-10-23-vie-2000-2-hamburguesas.jpg` es la del viernes 23 a las 20:00). Subilas tal cual. Los "Pedidos de imagen" quedan por si preferís hacer otra versión con ChatGPT.
+> 🖼️ **Las imágenes ya están listas** en `imagenes/semana-19-al-25-octubre/`, con el día y la hora en el nombre (por ejemplo `2026-10-23-vie-2000-2-hamburguesas.jpg` es la del viernes 23 a las 20:00). Subilas tal cual. Para los **estados de WhatsApp y las historias de Instagram y Facebook** usá las versiones verticales de la subcarpeta `historias/`. Los "Pedidos de imagen" quedan por si preferís hacer otra versión con ChatGPT.
 
 - **Imágenes con ChatGPT (opcional):** seguí `guia-de-estilo.md`.
 - **Hashtags:** están en `guia-de-estilo.md`.
