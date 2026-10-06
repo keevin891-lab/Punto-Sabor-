@@ -7,6 +7,7 @@ Contenido para Instagram (@punto.sabor9julio) y Facebook de Punto Sabor, comidas
 | `publicaciones/` | Las publicaciones de cada semana (20:00 y 23:00 hs), listas para programar en Meta Business Suite |
 | `imagenes/` | Las imágenes de cada publicación (1080×1350), con el día y la hora en el nombre. En `historias/` están las versiones 9:16 para estados e historias |
 | `estados/` | Planes de 7 días de estados (WhatsApp Business, historias de Instagram y Facebook). Sus imágenes están en `imagenes/estados-*` |
+| `anuncios/` | Anuncio pago para Facebook e Instagram: imágenes, textos y cómo cargarlo |
 | `guia-de-estilo.md` | Cómo generar en ChatGPT imágenes con el estilo de la marca |
 | `calendario/` | Fechas importantes para aprovechar |
 | `prompts/publicidad-diaria-punto-sabor.md` | Prompt para generar publicaciones nuevas en ChatGPT, con la carta completa |
