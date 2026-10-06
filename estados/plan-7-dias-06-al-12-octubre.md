@@ -39,9 +39,10 @@ Cada día suma **un estado especial** con un formato distinto. Las historias de 
 ## Día 2 · Miércoles 7: producto estrella (Lomo Roquefort, $14.000)
 
 - **Objetivo:** vender el sabor nuevo de la carta.
-- **Gancho:** El nuevo de la carta ya tiene fans. ¿Lo probaste?
+- **Imagen:** `imagenes/estados-06-al-12-octubre/2026-10-07-mie-estado-lomo-roquefort-historia.jpg`
+- **Gancho:** El nuevo de la carta te está esperando. ¿Ya lo probaste?
 - **Texto:**
-  > El nuevo de la carta ya tiene fans 🧀
+  > El nuevo de la carta te está esperando 🧀
   > Lomo Roquefort: bife de lomo, lechuga, tomate y salsa roquefort, con papas. $14.000.
 - **Llamado a la acción:** "Pedilo por WhatsApp: 385 456-6585".
 - **Instagram:** encuesta "¿Ya lo probaste? 🙋 Sí / 🤤 Todavía no" + sticker de enlace.
