@@ -4,13 +4,13 @@ import { R } from "./recortes.mjs";
 const lineas = (t, size) => t.map((texto, i) => ({ texto, color: i % 2 ? "amarillo" : "blanco", size }));
 
 // Producto con foto grande: título de 2 líneas, subtítulo en pincel rojo, foto y precio.
-export function foto({ titulo, sub, crop, precio, chico }) {
+export function foto({ titulo, sub, crop, precio, chico, precioSize = 100 }) {
   return {
     logo: R.logo,
     titulo: { top: 238, lineas: lineas(titulo, 112) },
     pinceles: sub ? [{ top: 478, texto: sub, size: 44 }] : [],
     fotos: [{ left: 60, top: 570, width: 960, height: 560, crop }],
-    precios: precio ? [{ texto: precio, chico, pos: "right:44px;top:1040px", size: 100 }] : [],
+    precios: precio ? [{ texto: precio, chico, pos: "right:44px;top:1040px", size: precioSize }] : [],
   };
 }
 
