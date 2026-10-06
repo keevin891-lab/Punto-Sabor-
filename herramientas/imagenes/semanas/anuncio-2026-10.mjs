@@ -2,6 +2,8 @@
 import { R } from "../recortes.mjs";
 import { foto, filas } from "../diseños.mjs";
 
+export const telefono = "385 441-0409";
+
 export const posts = [
   { archivo: "anuncio-a-hambre-en-frias.jpg", diseño: foto({
     titulo: ["¿HAMBRE", "EN FRÍAS?"], sub: "HAMBURGUESAS · LOMOS · PIZZAS · MILANESAS", crop: R.mesaCompleta,
@@ -13,7 +15,7 @@ export const posts = [
       { crop: R.dosHamburguesas, nombre: "2 HAMBURGUESAS + PAPAS", monto: "$15.000" },
     ] }) },
   { archivo: "anuncio-c-al-paso.jpg", diseño: foto({
-    titulo: ["AL PASO, FRENTE", "A LA PLAZA"], sub: "MITRE 146 · FRÍAS · PEDÍ POR WHATSAPP", crop: R.local,
+    titulo: ["AL PASO, FRENTE", "A LA PLAZA"], sub: "MITRE 146 · FRÍAS · PUNTOSABOR9.NETLIFY.APP", crop: R.local,
     precio: "HASTA LAS 3 AM", chico: "TODOS LOS DÍAS", precioSize: 76 }) },
   { archivo: "anuncio-d-local-original.png", copiar: "local-al-paso.png" },
 ];

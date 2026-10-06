@@ -11,7 +11,8 @@ if (!archivo || !salida) {
   console.error("Uso: node generar.mjs <diseños.mjs> <carpeta de salida>");
   process.exit(1);
 }
-const { posts } = await import(pathToFileURL(path.resolve(archivo)).href);
+// Un archivo de diseños puede exportar `telefono` para cambiar el número del pie.
+const { posts, telefono } = await import(pathToFileURL(path.resolve(archivo)).href);
 const { TAMAÑOS, REFERENCIAS } = await import("./recortes.mjs");
 mkdirSync(salida, { recursive: true });
 
@@ -32,7 +33,7 @@ for (const p of posts) {
     console.log("copiada  ", p.archivo);
     continue;
   }
-  await pagina.evaluate(([diseño, tamaños]) => window.renderPost(diseño, tamaños), [p.diseño, TAMAÑOS]);
+  await pagina.evaluate(([diseño, tamaños, tel]) => window.renderPost(diseño, tamaños, tel), [p.diseño, TAMAÑOS, telefono]);
   await pagina.waitForTimeout(150);
   await pagina.locator("#post").screenshot({ path: destino, type: destino.endsWith(".png") ? "png" : "jpeg", quality: destino.endsWith(".png") ? undefined : 92 });
   console.log("generada ", p.archivo);

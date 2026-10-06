@@ -29,10 +29,11 @@
   <div class="fondo" id="fondo"></div>
   <div class="esquina b"></div><div class="esquina a"></div><div class="esquina d"></div><div class="esquina c"></div>
   <div class="caja"><img id="img" alt=""></div>
-  <div class="cta">PEDÍ POR WHATSAPP <b>385 456-6585</b></div>
+  <div class="cta" id="cta">PEDÍ POR WHATSAPP <b>385 456-6585</b></div>
 </div>
 <script>
-window.cargar = (src) => new Promise((ok) => {
+window.cargar = (src, cta) => new Promise((ok) => {
+  if (cta) document.getElementById("cta").innerHTML = cta;
   const img = document.getElementById("img");
   document.getElementById("fondo").style.backgroundImage = `url("${src}")`;
   img.onload = img.onerror = ok;
