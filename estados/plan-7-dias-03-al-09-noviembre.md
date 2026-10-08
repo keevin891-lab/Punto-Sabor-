@@ -3,7 +3,7 @@
 Estados de **WhatsApp Business**, historias de **Instagram** (@punto.sabor9julio) e historias de la **página de Facebook**, siempre desde la cuenta del negocio.
 
 - **Tono:** cercano y divertido.
-- **Datos fijos:** Mitre 146, frente a la plaza 9 de Julio · abierto todos los días hasta las 3 AM · delivery y retiro al paso · WhatsApp 385 456-6585.
+- **Datos fijos:** Mitre 146, frente a la plaza 9 de Julio · abierto todos los días hasta las 3 AM · delivery y retiro al paso · WhatsApp 385 456-6585 o 385 444-4487.
 - **Imágenes:** 9:16 en `imagenes/estados-03-al-09-noviembre/`.
 
 Este estado especial se suma a las historias de producto de las 20:00 y las 23:00 (`imagenes/semana-02-al-08-noviembre/historias/` y, el lunes 9, `imagenes/semana-09-al-15-noviembre/historias/`).
@@ -27,7 +27,7 @@ Este estado especial se suma a las historias de producto de las 20:00 y las 23:0
 - **Gancho:** ¿No ves nuestras promos? Agendá el número 📲
 - **Texto:**
   > ¿No ves nuestras promos? Agendá el número 📲
-  > Guardá 385 456-6585 como "Punto Sabor" y vas a ver cada día lo que hay.
+  > Guardá 385 456-6585 y 385 444-4487 como "Punto Sabor" y vas a ver cada día lo que hay.
 - **Llamado a la acción:** "Agendanos y mandanos un 👋".
 - **Instagram:** sticker de enlace a WhatsApp con el texto "AGENDANOS".
 - **Facebook:** "Guardá nuestro número y enterate de las promos por WhatsApp."
@@ -40,7 +40,7 @@ Este estado especial se suma a las historias de producto de las 20:00 y las 23:0
 - **Gancho:** Cheddar y cebolla caramelizada sobre bife de lomo. Mirá esto 👀
 - **Texto:**
   > Lomo Fugazza: bife de lomo, cheddar y cebolla caramelizada, con papas. $14.000.
-- **Llamado a la acción:** "Pedilo al 385 456-6585".
+- **Llamado a la acción:** "Pedilo al 385 456-6585 o 385 444-4487".
 - **Instagram:** encuesta "¿Fugazza o Gold?" + enlace.
 - **Facebook:** "El lomo para los que aman la cebolla 🧅"
 - **WhatsApp:** "Hoy te recomiendo el Lomo Fugazza 🧅🧀 ¿Te lo preparo?"
@@ -66,7 +66,7 @@ Este estado especial se suma a las historias de producto de las 20:00 y las 23:0
 - **Gancho:** Solo hoy viernes: pancho + lata por $5.000.
 - **Texto:**
   > Solo hoy viernes ⏰ Súper pancho + lata por $5.000.
-- **Llamado a la acción:** "Pedí antes de que termine el día: 385 456-6585".
+- **Llamado a la acción:** "Pedí antes de que termine el día: 385 456-6585 o 385 444-4487".
 - **Instagram:** cuenta regresiva hasta las 23:59 + enlace.
 - **Facebook:** "Antojo barato, solo por hoy."
 - **WhatsApp:** "Solo por hoy: pancho + lata a $5.000 🌭 ¿Te lo preparo?"
@@ -80,7 +80,7 @@ Este estado especial se suma a las historias de producto de las 20:00 y las 23:0
 - **Texto:**
   > Sábado a full en Punto Sabor 🔥
   > Gracias por elegirnos. Todo sale recién hecho.
-- **Llamado a la acción:** "Sumá tu pedido: 385 456-6585".
+- **Llamado a la acción:** "Sumá tu pedido: 385 456-6585 o 385 444-4487".
 - **Instagram:** pregunta "¿Qué pediste hoy?" + enlace.
 - **Facebook:** "Así estamos este sábado 🙌"
 - **WhatsApp:** "Sábado a full 🔥 Si querés, mandame tu pedido y te aviso cuando sale."
@@ -93,7 +93,7 @@ Este estado especial se suma a las historias de producto de las 20:00 y las 23:0
 - **Texto:**
   > Hamburguesas, lomos, pizzas, milanesas y panchos 🍔🥩🍕
   > Todo al paso en Mitre 146, frente a la plaza. Delivery o retiro, hasta las 3 AM.
-- **Llamado a la acción:** "Pedí la carta por WhatsApp: 385 456-6585".
+- **Llamado a la acción:** "Pedí la carta por WhatsApp: 385 456-6585 o 385 444-4487".
 - **Instagram:** sticker de ubicación + enlace.
 - **Facebook:** "¿Todavía no nos conocés? Esto es Punto Sabor 🙌"
 - **WhatsApp:** "¿Querés la carta completa? Pedímela por acá y te la mando 📋"

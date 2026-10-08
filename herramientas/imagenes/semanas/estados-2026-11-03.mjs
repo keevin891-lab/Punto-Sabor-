@@ -4,7 +4,7 @@ import { foto, texto } from "../diseños.mjs";
 
 export const posts = [
   { archivo: "2026-11-03-mar-estado-agendanos.jpg", diseño: texto({
-    titulo: ["¿NO VES", "LAS PROMOS?"], subs: ["AGENDÁ EL 385 456-6585", "GUARDALO COMO \"PUNTO SABOR\""], fondo: R.mesaCompleta }) },
+    titulo: ["¿NO VES", "LAS PROMOS?"], subs: ["AGENDÁ 385 456-6585 Y 385 444-4487", "GUARDALOS COMO \"PUNTO SABOR\""], fondo: R.mesaCompleta }) },
   { archivo: "2026-11-04-mie-estado-lomo-fugazza.jpg", diseño: texto({
     titulo: ["LOMO", "FUGAZZA"], subs: ["BIFE DE LOMO · CHEDDAR · CEBOLLA CARAMELIZADA", "CON PORCIÓN DE PAPAS"], precio: "$14.000", fondo: R.lomoYPancho }) },
   { archivo: "2026-11-05-jue-estado-tu-pedido-de-siempre.jpg", diseño: texto({

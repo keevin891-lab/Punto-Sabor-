@@ -2,6 +2,8 @@
 
 Textos listos para copiar y pegar en **WhatsApp Business → Configuración → Herramientas para la empresa → Perfil de empresa** (y en "Mensajes automáticos" y "Respuestas rápidas").
 
+**Cargalos igual en los dos números del negocio: 385 456-6585 y 385 444-4487.** Así, escriba a cuál escriba, el cliente ve el mismo perfil y recibe los mismos mensajes.
+
 ---
 
 ## El prompt (patrón ACCIÓN → TEMA → PROMPT)

@@ -3,7 +3,7 @@
 Estados de **WhatsApp Business**, historias de **Instagram** (@punto.sabor9julio) e historias de la **página de Facebook**, siempre desde la cuenta del negocio.
 
 - **Tono:** cercano y divertido.
-- **Datos fijos:** Mitre 146, frente a la plaza 9 de Julio · abierto todos los días hasta las 3 AM · delivery y retiro al paso · WhatsApp 385 456-6585.
+- **Datos fijos:** Mitre 146, frente a la plaza 9 de Julio · abierto todos los días hasta las 3 AM · delivery y retiro al paso · WhatsApp 385 456-6585 o 385 444-4487.
 - **Imágenes:** 9:16 en `imagenes/estados-20-al-26-octubre/`.
 
 Este estado especial se suma a las historias de producto de las 20:00 y las 23:00 (`imagenes/semana-19-al-25-octubre/historias/` y, el lunes 26, `imagenes/semana-26-oct-al-01-nov/historias/`).
@@ -30,7 +30,7 @@ Este estado especial se suma a las historias de producto de las 20:00 y las 23:0
   > 🛵 Te lo llevamos a tu casa
   > 🏃 O pasás por Mitre 146, frente a la plaza, y lo retirás
   > Todos los días hasta las 3 AM.
-- **Llamado a la acción:** "Escribinos al 385 456-6585".
+- **Llamado a la acción:** "Escribinos al 385 456-6585 o 385 444-4487".
 - **Instagram:** encuesta "¿Cómo pedís vos? 🛵 Delivery / 🏃 Al paso" + enlace.
 - **Facebook:** "Pedí como quieras: delivery o retiro al paso en Mitre 146."
 - **WhatsApp:** "¿Sabías que también te lo llevamos? 🛵 Pedí por acá y elegí delivery o retiro."
@@ -45,7 +45,7 @@ Este estado especial se suma a las historias de producto de las 20:00 y las 23:0
   > 1️⃣ Mandá tu pedido por WhatsApp
   > 2️⃣ Avisá tu nombre y a qué hora pasás
   > 3️⃣ Pasá por Mitre 146 y listo
-- **Llamado a la acción:** "Probalo hoy: 385 456-6585".
+- **Llamado a la acción:** "Probalo hoy: 385 456-6585 o 385 444-4487".
 - **Instagram:** sticker de enlace "PEDÍ ACÁ".
 - **Facebook:** el mismo texto.
 - **WhatsApp:** "Tip: si me mandás tu pedido y a qué hora pasás, te lo tengo listo 😉"
@@ -71,7 +71,7 @@ Este estado especial se suma a las historias de producto de las 20:00 y las 23:0
 - **Gancho:** Solo hoy viernes: 2 pizzas a elección por $21.000.
 - **Texto:**
   > Solo hoy viernes ⏰ 2 pizzas a elección por $21.000.
-- **Llamado a la acción:** "Pedí antes de que termine el día: 385 456-6585".
+- **Llamado a la acción:** "Pedí antes de que termine el día: 385 456-6585 o 385 444-4487".
 - **Instagram:** cuenta regresiva hasta las 23:59 + enlace.
 - **Facebook:** "Viernes de pizza, solo por hoy."
 - **WhatsApp:** "Solo por hoy: 2 pizzas a $21.000 🍕🍕 ¿Cuáles te preparo?"
@@ -84,7 +84,7 @@ Este estado especial se suma a las historias de producto de las 20:00 y las 23:0
 - **Texto:**
   > La Calabresa llegó para quedarse 🌶️
   > Rodajas de calabresa doradas y muzzarella gratinada: $12.000.
-- **Llamado a la acción:** "Pedila al 385 456-6585".
+- **Llamado a la acción:** "Pedila al 385 456-6585 o 385 444-4487".
 - **Instagram:** encuesta "¿Calabresa o Roquefort?" + enlace.
 - **Facebook:** "Sábado de pizza con carácter 🌶️"
 - **WhatsApp:** "¿Probaste la Calabresa? 🌶️ Hoy es el día."
@@ -98,7 +98,7 @@ Este estado especial se suma a las historias de producto de las 20:00 y las 23:0
 - **Texto:**
   > Domingo en la cocina de Punto Sabor 🔥
   > Todo hecho en el momento, para que vos no cocines.
-- **Llamado a la acción:** "¿Se te antojó? 385 456-6585".
+- **Llamado a la acción:** "¿Se te antojó? 385 456-6585 o 385 444-4487".
 - **Instagram:** pregunta "¿Qué querés ver cómo lo preparamos?" + enlace.
 - **Facebook:** "Así trabajamos cada día para ustedes 🙌"
 - **WhatsApp:** "Así estamos ahora 🔥 ¿Te preparo algo?"

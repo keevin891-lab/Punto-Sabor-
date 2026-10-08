@@ -3,7 +3,7 @@
 Semana de **Halloween (sábado 31)**. Estados de **WhatsApp Business**, historias de **Instagram** (@punto.sabor9julio) e historias de la **página de Facebook**, siempre desde la cuenta del negocio.
 
 - **Tono:** cercano y divertido.
-- **Datos fijos:** Mitre 146, frente a la plaza 9 de Julio · abierto todos los días hasta las 3 AM · delivery y retiro al paso · WhatsApp 385 456-6585.
+- **Datos fijos:** Mitre 146, frente a la plaza 9 de Julio · abierto todos los días hasta las 3 AM · delivery y retiro al paso · WhatsApp 385 456-6585 o 385 444-4487.
 - **Imágenes:** 9:16 en `imagenes/estados-27-oct-al-02-nov/`.
 
 Este estado especial se suma a las historias de producto de las 20:00 y las 23:00 (`imagenes/semana-26-oct-al-01-nov/historias/` y, el lunes 2, `imagenes/semana-02-al-08-noviembre/historias/`).
@@ -29,7 +29,7 @@ Este estado especial se suma a las historias de producto de las 20:00 y las 23:0
 - **Texto:**
   > Detrás de cada pedido hay un equipo que lo hace con ganas 🙌
   > Somos Punto Sabor, en Mitre 146, frente a la plaza.
-- **Llamado a la acción:** "Pasá a saludarnos o escribinos: 385 456-6585".
+- **Llamado a la acción:** "Pasá a saludarnos o escribinos: 385 456-6585 o 385 444-4487".
 - **Instagram:** sticker de ubicación + enlace a WhatsApp.
 - **Facebook:** "Les presentamos al equipo de Punto Sabor 🙌 Gracias por elegirnos cada día."
 - **WhatsApp:** "¡Hola! Te presento al equipo que te cocina 😄 Cualquier pedido, por acá."
@@ -44,7 +44,7 @@ Este estado especial se suma a las historias de producto de las 20:00 y las 23:0
   > 1️⃣ Pedí con tiempo, no a último momento
   > 2️⃣ Mandá todo en un solo mensaje: pedido, delivery o retiro, y forma de pago
   > 3️⃣ Si retirás, avisá a qué hora pasás
-- **Llamado a la acción:** "Agendá el número: 385 456-6585".
+- **Llamado a la acción:** "Agendá el número: 385 456-6585 o 385 444-4487".
 - **Instagram:** cuenta regresiva "Halloween" + enlace.
 - **Facebook:** el mismo texto.
 - **WhatsApp:** "Para el sábado: si me pasás tu pedido con tiempo, te lo tengo listo sin esperas 😉"
@@ -70,7 +70,7 @@ Este estado especial se suma a las historias de producto de las 20:00 y las 23:0
 - **Gancho:** Solo hoy viernes: tostado + lata por $6.500.
 - **Texto:**
   > Solo hoy viernes ⏰ Tostado de jamón y queso + lata por $6.500.
-- **Llamado a la acción:** "Pedí antes de que termine el día: 385 456-6585".
+- **Llamado a la acción:** "Pedí antes de que termine el día: 385 456-6585 o 385 444-4487".
 - **Instagram:** cuenta regresiva hasta las 23:59 + enlace.
 - **Facebook:** "Antojo rápido y barato, solo por hoy."
 - **WhatsApp:** "Solo por hoy: tostado + lata a $6.500 🥪 ¿Te lo preparo?"
@@ -84,7 +84,7 @@ Este estado especial se suma a las historias de producto de las 20:00 y las 23:0
   > La pizza oficial de la noche de brujas: la Bajonera 🎃
   > Carne picada, cebolla morada y muzzarella. $14.000.
   > Hoy hasta las 3 AM.
-- **Llamado a la acción:** "Pedila al 385 456-6585".
+- **Llamado a la acción:** "Pedila al 385 456-6585 o 385 444-4487".
 - **Instagram:** sticker de GIF de calabaza + enlace.
 - **Facebook:** "¡Feliz Halloween! 🎃 Hoy estamos hasta las 3 AM."
 - **WhatsApp:** "¡Feliz Halloween! 🎃 ¿Te preparo una Bajonera?"
@@ -98,7 +98,7 @@ Este estado especial se suma a las historias de producto de las 20:00 y las 23:0
 - **Texto:**
   > Así quedamos después de Halloween 😅
   > ¡Gracias, Frías, por tantos pedidos! Hoy seguimos.
-- **Llamado a la acción:** "Domingo sin cocinar: 385 456-6585".
+- **Llamado a la acción:** "Domingo sin cocinar: 385 456-6585 o 385 444-4487".
 - **Instagram:** pregunta "¿Qué pediste en Halloween?" + enlace.
 - **Facebook:** "Gracias por un Halloween a full 🙌"
 - **WhatsApp:** "¡Gracias por los pedidos de ayer! 🙌 Hoy también estamos."

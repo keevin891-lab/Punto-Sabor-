@@ -19,11 +19,11 @@
 > Lunes de vuelta a la rutina: la cena, que sea fácil 🍔
 > Hamburguesa Tradicional: pan de papa, medallón de carne, lechuga, tomate, huevo, jamón y queso, con porción de papas.
 > $8.000. Sin vueltas y con todo.
-> 📲 Pedí por WhatsApp al 385 456-6585
+> 📲 Pedí por WhatsApp al 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Frías
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "LUNES SIN VUELTAS". Hamburguesa completa con huevo, jamón, queso, lechuga y tomate, con papas fritas, sobre papel a cuadros. Etiqueta amarilla: "TRADICIONAL $8.000". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "LUNES SIN VUELTAS". Hamburguesa completa con huevo, jamón, queso, lechuga y tomate, con papas fritas, sobre papel a cuadros. Etiqueta amarilla: "TRADICIONAL $8.000". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ### 23:00 hs: Cono de papas ($3.500)
 
@@ -33,11 +33,11 @@
 > Un antojo chiquito para el lunes 🍟
 > Cono de papas fritas, bien crocantes y con toppings a elección: $3.500.
 > Para picar mirando una serie o para acompañar lo que quieras.
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Frías
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "ANTOJO CHIQUITO". Cono de papel a cuadros lleno de papas fritas doradas con salsas por encima. Etiqueta amarilla: "CONO DE PAPAS $3.500". Subtítulo: "TOPPINGS A ELECCIÓN". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "ANTOJO CHIQUITO". Cono de papel a cuadros lleno de papas fritas doradas con salsas por encima. Etiqueta amarilla: "CONO DE PAPAS $3.500". Subtítulo: "TOPPINGS A ELECCIÓN". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ---
 
@@ -50,14 +50,14 @@
 **Instagram + página de Facebook:**
 > Hamburguesa, papas y gaseosa. Un solo precio: $10.000 🍔🍟🥤
 > La cena completa del martes, sin sacar cuentas.
-> 📲 Pedí al 385 456-6585
+> 📲 Pedí al 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Frías
 
 **Grupos de Frías:**
-> Buenas noches, Frías 👋 Les recordamos la promo de Punto Sabor: hamburguesa + papas + gaseosa a $10.000. Pedidos al 385 456-6585. ¡Gracias por dejarnos publicar!
+> Buenas noches, Frías 👋 Les recordamos la promo de Punto Sabor: hamburguesa + papas + gaseosa a $10.000. Pedidos al 385 456-6585 o 385 444-4487. ¡Gracias por dejarnos publicar!
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "TODO INCLUIDO". Hamburguesa completa con papas fritas y una gaseosa fría al lado, sobre papel a cuadros. Etiqueta amarilla: "HAMBURGUESA + PAPAS + GASEOSA $10.000". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "TODO INCLUIDO". Hamburguesa completa con papas fritas y una gaseosa fría al lado, sobre papel a cuadros. Etiqueta amarilla: "HAMBURGUESA + PAPAS + GASEOSA $10.000". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ### 23:00 hs: Pizza Fugazzeta ($11.000)
 
@@ -67,11 +67,11 @@
 > Cebolla y queso, queso y cebolla. La fugazzeta no falla 🧅🧀
 > Fugazzeta recién salida del horno: $11.000.
 > Para la trasnoche del martes, ya sabés dónde escribir.
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Frías
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fachada roja del local de noche con lamparitas. Título grande en brush: "LA FUGAZZETA NO FALLA". Pizza fugazzeta con mucha cebolla y muzzarella gratinada, con una porción levantándose y estirando el queso, sobre tabla de madera. Etiqueta amarilla: "$11.000". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fachada roja del local de noche con lamparitas. Título grande en brush: "LA FUGAZZETA NO FALLA". Pizza fugazzeta con mucha cebolla y muzzarella gratinada, con una porción levantándose y estirando el queso, sobre tabla de madera. Etiqueta amarilla: "$11.000". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ---
 
@@ -85,11 +85,11 @@
 > Si te gusta el sabor intenso, esta hamburguesa es para vos 🧀
 > Burger Roquefort: pan de papa, medallón de carne, lechuga, tomate y salsa roquefort, con porción de papas.
 > $12.000. De los nuevos sabores, la que más se anima.
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Frías
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "BURGER ROQUEFORT". Hamburguesa con salsa roquefort cremosa chorreando, lechuga y tomate, sobre papel a cuadros. Etiqueta amarilla: "$12.000". Subtítulo: "SABOR INTENSO". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "BURGER ROQUEFORT". Hamburguesa con salsa roquefort cremosa chorreando, lechuga y tomate, sobre papel a cuadros. Etiqueta amarilla: "$12.000". Subtítulo: "SABOR INTENSO". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ### 23:00 hs: Pizza Napolitana ($11.000)
 
@@ -99,11 +99,11 @@
 > Miércoles de clásicos: la Napolitana de siempre 🍕
 > Recién horneada y bien cargada de muzzarella, a $11.000.
 > Mitad de semana, mitad de pizza para mañana… si sobra 😉
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Frías
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fachada roja del local de noche con lamparitas. Título grande en brush: "MIÉRCOLES DE CLÁSICOS". Pizza napolitana con rodajas de tomate y muzzarella dorada sobre tabla de madera. Etiqueta amarilla: "NAPOLITANA $11.000". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fachada roja del local de noche con lamparitas. Título grande en brush: "MIÉRCOLES DE CLÁSICOS". Pizza napolitana con rodajas de tomate y muzzarella dorada sobre tabla de madera. Etiqueta amarilla: "NAPOLITANA $11.000". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ---
 
@@ -117,14 +117,14 @@
 > Sándwich de milanesa con mayonesa casera por $7.000 🥪
 > Milanesa Tradicional: pan sanguchero, lechuga, tomate y mayonesa casera.
 > ¿Querés más? La Completa y la Criolla vienen con porción de papas a $13.000.
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Frías
 
 **Grupos de Frías:**
-> Hola, vecinos 🙌 En Punto Sabor tenemos el sándwich de milanesa tradicional con mayonesa casera a $7.000. Pedidos al 385 456-6585.
+> Hola, vecinos 🙌 En Punto Sabor tenemos el sándwich de milanesa tradicional con mayonesa casera a $7.000. Pedidos al 385 456-6585 o 385 444-4487.
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "RICO Y BARATO". Sándwich de milanesa dorada con lechuga, tomate y mayonesa, cortado al medio, sobre papel a cuadros. Etiqueta amarilla: "MILANESA $7.000". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "RICO Y BARATO". Sándwich de milanesa dorada con lechuga, tomate y mayonesa, cortado al medio, sobre papel a cuadros. Etiqueta amarilla: "MILANESA $7.000". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ### 23:00 hs: Pizza Calabresa ($12.000)
 
@@ -134,11 +134,11 @@
 > Picante, crocante y recién salida 🌶️🍕
 > Pizza Calabresa, de los nuevos sabores de la carta: $12.000.
 > Para los que de noche quieren algo con carácter.
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Frías
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "PIZZA CALABRESA". Pizza con rodajas de calabresa doradas y muzzarella gratinada sobre tabla de madera. Etiqueta amarilla: "$12.000". Subtítulo: "PARA LOS QUE QUIEREN ALGO CON CARÁCTER". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "PIZZA CALABRESA". Pizza con rodajas de calabresa doradas y muzzarella gratinada sobre tabla de madera. Etiqueta amarilla: "$12.000". Subtítulo: "PARA LOS QUE QUIEREN ALGO CON CARÁCTER". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ---
 
@@ -152,14 +152,14 @@
 > Viernes con amigos: 2 hamburguesas y papas por $15.000 🍔🍔🍟
 > Uno pone la casa, otro la música y la comida la ponemos nosotros.
 > ⚠️ Los viernes hay muchos pedidos: pedí temprano.
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Frías
 
 **Grupos de Frías:**
-> ¡Llegó el viernes, Frías! 🎉 En Punto Sabor: 2 hamburguesas + porción de papas a $15.000 y 2 lomos a $22.000. Pidan temprano al 385 456-6585 😉
+> ¡Llegó el viernes, Frías! 🎉 En Punto Sabor: 2 hamburguesas + porción de papas a $15.000 y 2 lomos a $22.000. Pidan temprano al 385 456-6585 o 385 444-4487 😉
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fachada roja del local de noche con lamparitas. Título grande en brush: "VIERNES CON AMIGOS". Dos hamburguesas completas con una montaña de papas fritas en el medio, sobre papel a cuadros. Etiqueta amarilla: "2 HAMBURGUESAS + PAPAS $15.000". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fachada roja del local de noche con lamparitas. Título grande en brush: "VIERNES CON AMIGOS". Dos hamburguesas completas con una montaña de papas fritas en el medio, sobre papel a cuadros. Etiqueta amarilla: "2 HAMBURGUESAS + PAPAS $15.000". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ### 23:00 hs: Promo 2 lomos ($22.000)
 
@@ -168,11 +168,11 @@
 **Instagram + página de Facebook:**
 > La noche del viernes recién empieza 🌙
 > 2 lomos con porción de papas por $22.000: uno para vos y otro para quien te banca.
-> 📲 Pedí ya al 385 456-6585
+> 📲 Pedí ya al 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Frías
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "LA NOCHE RECIÉN EMPIEZA". Dos lomitos completos con papas fritas sobre papel a cuadros. Etiqueta amarilla: "2 LOMOS $22.000". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "LA NOCHE RECIÉN EMPIEZA". Dos lomitos completos con papas fritas sobre papel a cuadros. Etiqueta amarilla: "2 LOMOS $22.000". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ---
 
@@ -186,11 +186,11 @@
 > ¿Calabresa o Roquefort? Con la promo no tenés que elegir 😎
 > 2 pizzas a elección por $21.000: llevate una de cada una.
 > Sábado de sabores nuevos para compartir.
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Frías
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fondo negro dividido en diagonal en mitad roja y mitad amarilla. Título grande en brush: "¿CALABRESA O ROQUEFORT?". A la izquierda una pizza calabresa y a la derecha una pizza roquefort, cada una con su etiqueta. Etiqueta amarilla al centro: "2 PIZZAS $21.000". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fondo negro dividido en diagonal en mitad roja y mitad amarilla. Título grande en brush: "¿CALABRESA O ROQUEFORT?". A la izquierda una pizza calabresa y a la derecha una pizza roquefort, cada una con su etiqueta. Etiqueta amarilla al centro: "2 PIZZAS $21.000". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ### 23:00 hs: Las promos del sábado
 
@@ -201,11 +201,11 @@
 > 🥩 2 lomos: $22.000
 > 🍔 2 hamburguesas + papas: $15.000
 > 🌭 Pancho + lata: $5.000
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Frías
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "ELEGÍ TU PROMO". Tres recuadros con borde amarillo, como en mi imagen de promos: "2 LOMOS $22.000", "2 HAMBURGUESAS + PAPAS $15.000" y "PANCHO + LATA $5.000", cada uno con su foto. Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "ELEGÍ TU PROMO". Tres recuadros con borde amarillo, como en mi imagen de promos: "2 LOMOS $22.000", "2 HAMBURGUESAS + PAPAS $15.000" y "PANCHO + LATA $5.000", cada uno con su foto. Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ---
 
@@ -219,14 +219,14 @@
 > Domingo a la noche pide lo de siempre: una buena muzza 🍕
 > Muzza $10.500 · Muzza con huevo $11.000.
 > La más pedida para cerrar el finde en familia.
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Frías
 
 **Grupos de Frías:**
-> Buenas, vecinos 👋 Para cerrar el finde: en Punto Sabor la muzza está a $10.500 y la muzza con huevo a $11.000. Pedidos al 385 456-6585.
+> Buenas, vecinos 👋 Para cerrar el finde: en Punto Sabor la muzza está a $10.500 y la muzza con huevo a $11.000. Pedidos al 385 456-6585 o 385 444-4487.
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fachada roja del local de noche con lamparitas. Título grande en brush: "DOMINGO CLÁSICO". Pizza muzzarella con el queso burbujeando, sobre tabla de madera. Etiqueta amarilla: "MUZZA $10.500". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fachada roja del local de noche con lamparitas. Título grande en brush: "DOMINGO CLÁSICO". Pizza muzzarella con el queso burbujeando, sobre tabla de madera. Etiqueta amarilla: "MUZZA $10.500". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ### 23:00 hs: Se viene Halloween
 
@@ -236,11 +236,11 @@
 > El sábado 31 es Halloween 🎃
 > Lo único que da miedo es quedarte sin pizza.
 > Activá las notificaciones 🔔: esta semana te contamos qué se viene.
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Frías
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fondo negro con calabazas iluminadas y luz violeta tenue. Título grande en brush: "SE VIENE HALLOWEEN". Subtítulo con trazo rojo: "SÁBADO 31". Una caja de pizza entreabierta con luz saliendo de adentro. Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fondo negro con calabazas iluminadas y luz violeta tenue. Título grande en brush: "SE VIENE HALLOWEEN". Subtítulo con trazo rojo: "SÁBADO 31". Una caja de pizza entreabierta con luz saliendo de adentro. Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ---
 

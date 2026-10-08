@@ -2,8 +2,6 @@
 import { R } from "../recortes.mjs";
 import { foto, filas } from "../diseños.mjs";
 
-export const telefono = "385 441-0409";
-
 export const posts = [
   { archivo: "anuncio-a-hambre-en-frias.jpg", diseño: foto({
     titulo: ["¿HAMBRE", "EN FRÍAS?"], sub: "HAMBURGUESAS · LOMOS · PIZZAS · MILANESAS", crop: R.mesaCompleta,

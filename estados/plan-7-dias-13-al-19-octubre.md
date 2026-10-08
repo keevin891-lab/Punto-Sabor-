@@ -3,7 +3,7 @@
 Semana del **Día de la Madre (domingo 18)**. Estados de **WhatsApp Business**, historias de **Instagram** (@punto.sabor9julio) e historias de la **página de Facebook**, siempre desde la cuenta del negocio.
 
 - **Tono:** cercano y divertido.
-- **Datos fijos:** Mitre 146, frente a la plaza 9 de Julio · abierto todos los días hasta las 3 AM · delivery y retiro al paso · WhatsApp 385 456-6585.
+- **Datos fijos:** Mitre 146, frente a la plaza 9 de Julio · abierto todos los días hasta las 3 AM · delivery y retiro al paso · WhatsApp 385 456-6585 o 385 444-4487.
 - **Imágenes:** 9:16 en `imagenes/estados-13-al-19-octubre/`.
 
 Este estado especial se suma a las historias de producto de las 20:00 y las 23:00 (`imagenes/semana-13-al-18-octubre/historias/`).
@@ -31,7 +31,7 @@ Este estado especial se suma a las historias de producto de las 20:00 y las 23:0
   > 🍕 1 pizza cada 2 o 3 personas
   > 🥩 1 lomo o 🍔 1 hamburguesa por persona
   > 🍟 Sumá un cono de papas para picar
-- **Llamado a la acción:** "Escribinos y te armamos el pedido: 385 456-6585".
+- **Llamado a la acción:** "Escribinos y te armamos el pedido: 385 456-6585 o 385 444-4487".
 - **Instagram:** sticker de pregunta "¿Cuántos son en tu casa?" + enlace a WhatsApp.
 - **Facebook:** "¿Se juntan el domingo? Decinos cuántos son y te recomendamos qué pedir."
 - **WhatsApp:** "¿Cuántos van a ser el domingo? Contame y te armo el pedido ideal 😉"
@@ -57,7 +57,7 @@ Este estado especial se suma a las historias de producto de las 20:00 y las 23:0
 - **Texto:**
   > Le decimos Gold por algo 🏆
   > Doble medallón, cheddar, panceta y cebolla morada salteada, con papas. $12.000.
-- **Llamado a la acción:** "Pedila al 385 456-6585".
+- **Llamado a la acción:** "Pedila al 385 456-6585 o 385 444-4487".
 - **Instagram:** encuesta "¿La probaste? 🏆 Sí / 🤤 Hoy la pido" + enlace.
 - **Facebook:** "La Gold, para los que no se conforman con una simple 😎"
 - **WhatsApp:** "Hoy va la Gold 🏆 ¿Te la preparo?"
@@ -71,7 +71,7 @@ Este estado especial se suma a las historias de producto de las 20:00 y las 23:0
 - **Texto:**
   > Ya nos estamos preparando para el domingo 👀
   > Que mamá descanse: la cocina corre por nuestra cuenta.
-- **Llamado a la acción:** "Escribinos con tiempo: 385 456-6585".
+- **Llamado a la acción:** "Escribinos con tiempo: 385 456-6585 o 385 444-4487".
 - **Instagram:** cuenta regresiva "Día de la Madre" (domingo 18) + enlace.
 - **Facebook:** "El domingo va a haber muchos pedidos: escribinos con tiempo 🙏"
 - **WhatsApp:** "El domingo se viene a full 🔥 Si querés, contame tu pedido desde ahora."
@@ -84,7 +84,7 @@ Este estado especial se suma a las historias de producto de las 20:00 y las 23:0
 - **Gancho:** Solo hoy sábado: 2 hamburguesas + papas por $15.000.
 - **Texto:**
   > Solo hoy sábado ⏰ 2 hamburguesas + porción de papas por $15.000.
-- **Llamado a la acción:** "Pedí antes de que termine el día: 385 456-6585".
+- **Llamado a la acción:** "Pedí antes de que termine el día: 385 456-6585 o 385 444-4487".
 - **Instagram:** cuenta regresiva hasta las 23:59 + enlace.
 - **Facebook:** "Sábado de hamburguesas para dos, solo por hoy."
 - **WhatsApp:** "Solo por hoy: 2 hamburguesas + papas a $15.000 🍔🍔 ¿Te las preparo?"

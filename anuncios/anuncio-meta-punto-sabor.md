@@ -3,7 +3,7 @@
 Anuncio listo para cargar en el **Administrador de anuncios de Meta** (adsmanager.facebook.com).
 
 - **Página web (destino del anuncio):** https://puntosabor9.netlify.app/
-- **WhatsApp del anuncio:** 385 441-0409 · link directo `https://wa.me/5493854410409`
+- **WhatsApp:** 385 456-6585 y 385 444-4487 · links directos `https://wa.me/5493854566585` y `https://wa.me/5493854444487`
 - **Instagram:** https://www.instagram.com/punto.sabor9julio/
 - **Dirección:** Mitre 146, frente a la plaza 9 de Julio, Frías
 
@@ -11,7 +11,7 @@ Anuncio listo para cargar en el **Administrador de anuncios de Meta** (adsmanage
 
 ## 1. Imágenes
 
-Están en `anuncios/imagenes/` y llevan el WhatsApp **385 441-0409**.
+Están en `anuncios/imagenes/` y llevan los dos WhatsApp: **385 456-6585** y **385 444-4487**.
 
 | Imagen | Formato | Archivo |
 |---|---|---|
@@ -32,7 +32,7 @@ Están en `anuncios/imagenes/` y llevan el WhatsApp **385 441-0409**.
 > Hamburguesas, lomos, pizzas y milanesas al paso, frente a la plaza 9 de Julio.
 > 🛵 Delivery o retiro en Mitre 146
 > 🕒 Todos los días hasta las 3 AM
-> 👉 Mirá todo en nuestra página y pedí por WhatsApp: 385 441-0409
+> 👉 Mirá todo en nuestra página y pedí por WhatsApp: 385 456-6585 o 385 444-4487
 
 **2 · Las promos**
 > Promos para compartir en Punto Sabor 🙌
@@ -72,7 +72,7 @@ Hacelo desde la PC en **adsmanager.facebook.com**, con la cuenta publicitaria de
 ### Paso 1 · Campaña
 1. Tocá **+ Crear**.
 2. **Objetivo:** **Tráfico**, para llevar gente a la página web.
-   - Si preferís que te escriban directo, elegí **Interacción** → **Apps de mensajes** → **WhatsApp** con el 385 441-0409. Ver el paso 3b.
+   - Si preferís que te escriban directo, elegí **Interacción** → **Apps de mensajes** → **WhatsApp**. Ver el paso 3b.
 3. **Nombre:** `Punto Sabor · Frías · Tráfico web`.
 4. Dejá desactivado "Presupuesto de la campaña Advantage" para controlar el gasto a mano. → **Siguiente**.
 
@@ -101,7 +101,7 @@ Hacelo desde la PC en **adsmanager.facebook.com**, con la cuenta publicitaria de
 9. Mirá la vista previa a la derecha (feed, historias, reels) → **Publicar**.
 
 ### Paso 3b · Si elegiste mensajes de WhatsApp
-- El número **385 441-0409** tiene que estar **vinculado a la página de Facebook**: Configuración de la página → **WhatsApp** → agregar número y confirmar con el código que llega por SMS.
+- El botón de WhatsApp lleva a **un solo número**: elegí el que tengas **vinculado a la página de Facebook** (385 456-6585 o 385 444-4487). Si ninguno está vinculado: Configuración de la página → **WhatsApp** → agregar número y confirmar con el código que llega por SMS.
 - En el anuncio, el destino es **WhatsApp** y el botón **"Enviar mensaje de WhatsApp"**.
 - **Mensaje de bienvenida sugerido:** "¡Hola! 👋 Gracias por escribir a Punto Sabor. ¿Qué te preparamos hoy? ¿Delivery o retiro en Mitre 146?"
 
@@ -120,5 +120,5 @@ Hacelo desde la PC en **adsmanager.facebook.com**, con la cuenta publicitaria de
 
 ## 5. Tené en cuenta
 
-- **Revisá la página antes de pagar el anuncio.** No pude abrir puntosabor9.netlify.app desde acá, así que fijate que cargue bien en el celular, que tenga el número 385 441-0409 y los precios actualizados.
+- **Revisá la página antes de pagar el anuncio.** No pude abrir puntosabor9.netlify.app desde acá, así que fijate que cargue bien en el celular, que tenga los números 385 456-6585 y 385 444-4487 y los precios actualizados.
 - **Si cambian los precios,** actualizá el anuncio y la página.

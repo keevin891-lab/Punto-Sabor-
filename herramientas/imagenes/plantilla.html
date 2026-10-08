@@ -69,8 +69,9 @@
   .pie { position: absolute; left: 0; right: 0; bottom: 0; height: 128px; background: var(--rojo);
          display: flex; align-items: center; justify-content: center; gap: 18px;
          clip-path: polygon(0 18%, 18% 6%, 45% 14%, 72% 2%, 100% 12%, 100% 100%, 0 100%); padding-top: 14px; }
-  .pie .tel { font-size: 54px; letter-spacing: 1px; }
+  .pie .tel { font-size: 54px; letter-spacing: 1px; display: flex; align-items: center; gap: 16px; }
   .pie .tel b { color: var(--amarillo); font-weight: normal; }
+  .pie .nums { display: flex; flex-direction: column; font-size: 40px; line-height: 1.02; }
   .pie svg { width: 58px; height: 58px; flex: none; }
   .pie .lugar { font-size: 25px; line-height: 1.05; text-align: left; color: #fff; opacity: .95; border-left: 3px solid rgba(255,255,255,.6); padding-left: 18px; }
 </style>
@@ -98,7 +99,8 @@ function ajustar(el, max) {
 
 const TEL_SVG = `<svg viewBox="0 0 24 24" fill="#fff"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm5.3 14.2c-.2.6-1.3 1.2-1.8 1.2-.5.1-1 .1-1.7-.1a15 15 0 0 1-1.5-.6 11.9 11.9 0 0 1-4.6-4c-.3-.5-.9-1.5-.9-2.8s.7-2 1-2.3c.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 2c.1.1.1.3 0 .5l-.3.5-.4.4c-.1.2-.3.3-.1.6.2.3.8 1.3 1.6 2 1.1 1 2 1.3 2.3 1.4.3.1.5.1.6-.1l.9-1c.2-.3.4-.2.6-.1l1.9.9c.3.1.5.2.5.3.1.2.1.7-.1 1.3z"/></svg>`;
 
-window.renderPost = function (p, tamaños, telefono = "385 456-6585") {
+// `telefono` acepta uno o varios números separados por "|"; si hay varios, se apilan en el pie.
+window.renderPost = function (p, tamaños, telefono = "385 456-6585|385 444-4487") {
   const post = document.getElementById("post");
   let h = "";
   if (p.fondo) h += `<div class="fondo-foto" data-crop='${JSON.stringify(p.fondo)}'></div><div class="vineta"></div>`;
@@ -120,7 +122,7 @@ window.renderPost = function (p, tamaños, telefono = "385 456-6585") {
           <div class="txt"><div class="nombre">${r.nombre}</div><div class="monto">${r.monto}</div></div></div>`;
   for (const pr of p.precios || [])
     h += `<div class="precio" style="${pr.pos};font-size:${pr.size || 92}px">${pr.chico ? `<small>${pr.chico}</small>` : ""}${pr.texto}</div>`;
-  h += `<div class="pie">${TEL_SVG}<div class="tel">WHATSAPP <b>${telefono}</b></div><div class="lugar">MITRE 146 · FRÍAS<br>FRENTE PLAZA 9 DE JULIO</div></div>`;
+  h += `<div class="pie">${TEL_SVG}<div class="tel">WHATSAPP ${telefono.includes("|") ? `<span class="nums">${telefono.split("|").map(t => `<b>${t}</b>`).join("")}</span>` : `<b>${telefono}</b>`}</div><div class="lugar">MITRE 146 · FRÍAS<br>FRENTE PLAZA 9 DE JULIO</div></div>`;
   post.innerHTML = h;
 
   document.querySelectorAll("[data-crop]").forEach(el => recortar(el, JSON.parse(el.dataset.crop), tamaños));

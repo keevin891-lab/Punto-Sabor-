@@ -6,7 +6,7 @@ Prompt listo para pegar en ChatGPT. Sigue el patrón **ACCIÓN → TEMA → PROM
 
 **ACCIÓN:** Eres un diseñador gráfico y community manager experto en marketing gastronómico, con 20 años de experiencia creando estados de WhatsApp, historias de Instagram y de Facebook para locales de comida rápida del interior de Argentina. Dominas el diseño vertical para celulares, la escritura de ganchos que frenan el dedo en 1 segundo y la generación de imágenes con IA respetando la identidad de una marca.
 
-**TEMA:** Estados diarios (formato vertical 9:16) para la **cuenta de negocio** de **Punto Sabor** en Mitre 146, frente a la plaza 9 de Julio, Frías, Santiago del Estero: estados de **WhatsApp Business** (385 456-6585), historias de **Instagram** (@punto.sabor9julio) e historias de la **página de Facebook** del local. Se publica todos los días a las **20:00 hs** y a las **23:00 hs**, desde mañana.
+**TEMA:** Estados diarios (formato vertical 9:16) para la **cuenta de negocio** de **Punto Sabor** en Mitre 146, frente a la plaza 9 de Julio, Frías, Santiago del Estero: estados de **WhatsApp Business** (385 456-6585 o 385 444-4487), historias de **Instagram** (@punto.sabor9julio) e historias de la **página de Facebook** del local. Se publica todos los días a las **20:00 hs** y a las **23:00 hs**, desde mañana.
 
 **PROMPT:**
 
@@ -20,10 +20,10 @@ Para **cada** estado, entregá:
    - **Título:** enorme, en letra tipo pincel blanca y amarilla, de **5 palabras como máximo**. Es el gancho y se tiene que leer en 1 segundo.
    - **Comida:** fotorrealista y apetitosa, sobre papel a cuadros, con queso derretido y luz cálida.
    - **Precio:** en etiqueta amarilla con letras negras, bien grande.
-   - **Teléfono:** abajo, "📲 WhatsApp 385 456-6585".
+   - **Teléfono:** abajo, "📲 WhatsApp 385 456-6585 / 385 444-4487".
    - **Zonas libres:** dejá vacíos los **250 px de arriba** y los **300 px de abajo**. Ahí Instagram y WhatsApp ponen su nombre, la barra para responder y los stickers, y taparían el texto.
    - Escribí los textos **exactamente** como te los paso, sin errores. Revisá dos veces el precio y el teléfono.
-2. **Texto para el estado de WhatsApp:** 1 o 2 líneas cortas, con el gancho y "Escribime y te lo preparo 👉 385 456-6585".
+2. **Texto para el estado de WhatsApp:** 1 o 2 líneas cortas, con el gancho y "Escribime y te lo preparo 👉 385 456-6585 o 385 444-4487".
 3. **Stickers para Instagram y Facebook:**
    - un sticker de **enlace** a `https://wa.me/5493854566585` con el texto "PEDÍ ACÁ";
    - **uno** de estos: encuesta (por ejemplo "¿Lomo o hamburguesa?"), pregunta o cuenta regresiva si hay una fecha especial.
@@ -58,9 +58,9 @@ Para **cada** estado, entregá:
 |---|---|---|
 | **Instagram** (@punto.sabor9julio) | Meta Business Suite → **Crear historia** → elegí la cuenta **Punto Sabor** (no la personal) → subí la imagen → agregá el sticker de enlace → **Programar** a las 20:00 y a las 23:00 | ✅ Sí |
 | **Facebook** (página del negocio) | En la misma historia de Meta Business Suite, marcá también la **página** de Punto Sabor | ✅ Sí, junto con Instagram |
-| **WhatsApp** (385 456-6585) | En la app **WhatsApp Business**: pestaña **Novedades** → **Mi estado** → subí la imagen y pegá el texto | ❌ No: WhatsApp no permite programar estados. Hay que subirlos a mano a las 20:00 y a las 23:00 (ponete una alarma) |
+| **WhatsApp** (385 456-6585 o 385 444-4487) | En la app **WhatsApp Business**: pestaña **Novedades** → **Mi estado** → subí la imagen y pegá el texto | ❌ No: WhatsApp no permite programar estados. Hay que subirlos a mano a las 20:00 y a las 23:00 (ponete una alarma) |
 
 **Para que salgan desde la cuenta del negocio y no desde la personal:**
 - En Meta Business Suite, arriba a la izquierda tiene que figurar **Punto Sabor**, no tu nombre.
-- En WhatsApp, usá la app **WhatsApp Business** (ícono con una "B") con el número 385 456-6585. Si el número todavía está en el WhatsApp común, se puede pasar a WhatsApp Business sin perder los chats.
+- En WhatsApp, usá la app **WhatsApp Business** (ícono con una "B") con el número 385 456-6585 o 385 444-4487. Si el número todavía está en el WhatsApp común, se puede pasar a WhatsApp Business sin perder los chats.
 - Los estados de WhatsApp solo los ven los contactos que tienen tu número agendado. Pedile a cada cliente que te agende, por ejemplo con un cartel en el local: "Agendanos y enterate de las promos".

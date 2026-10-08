@@ -3,7 +3,7 @@
 Estados de **WhatsApp Business**, historias de **Instagram** (@punto.sabor9julio) e historias de la **página de Facebook**, siempre desde la cuenta del negocio.
 
 - **Tono:** cercano y divertido.
-- **Datos fijos:** Mitre 146, frente a la plaza 9 de Julio · abierto todos los días hasta las 3 AM · delivery y retiro al paso · WhatsApp 385 456-6585.
+- **Datos fijos:** Mitre 146, frente a la plaza 9 de Julio · abierto todos los días hasta las 3 AM · delivery y retiro al paso · WhatsApp 385 456-6585 o 385 444-4487.
 - **Imágenes:** 9:16 (1080×1920) en `imagenes/estados-06-al-12-octubre/`, con espacio libre arriba y abajo para la interfaz de las apps.
 
 Cada día suma **un estado especial** con un formato distinto. Las historias de producto de las 20:00 y las 23:00 (`imagenes/semana-06-al-12-octubre/historias/`) siguen como estaban.
@@ -31,9 +31,9 @@ Cada día suma **un estado especial** con un formato distinto. Las historias de 
   > ¿Pasaste por la plaza? Entonces ya nos viste 👀
   > Somos Punto Sabor: hamburguesas, lomos, milanesas, pizzas y panchos al paso, en Mitre 146, frente a la plaza 9 de Julio.
   > Abierto todos los días hasta las 3 AM, con delivery o retiro.
-- **Llamado a la acción:** "Guardá nuestro número y escribinos: 385 456-6585".
+- **Llamado a la acción:** "Guardá nuestro número y escribinos: 385 456-6585 o 385 444-4487".
 - **Instagram:** sticker de **ubicación** "Punto Sabor" (o "Frías") + sticker de **enlace** a `https://wa.me/5493854566585` con el texto "PEDÍ ACÁ".
-- **Facebook:** "Somos vecinos de la plaza 🙌 Si todavía no nos probaste, esta es la señal. Escribinos al 385 456-6585 y te lo llevamos o lo pasás a buscar."
+- **Facebook:** "Somos vecinos de la plaza 🙌 Si todavía no nos probaste, esta es la señal. Escribinos al 385 456-6585 o 385 444-4487 y te lo llevamos o lo pasás a buscar."
 - **WhatsApp:** "¡Hola! 👋 Soy de Punto Sabor, el local al paso frente a la plaza. Agendame para enterarte de las promos de cada día. Pedidos por acá mismo 😉"
 
 ## Día 2 · Miércoles 7: producto estrella (Lomo Roquefort, $14.000)
@@ -44,7 +44,7 @@ Cada día suma **un estado especial** con un formato distinto. Las historias de 
 - **Texto:**
   > El nuevo de la carta te está esperando 🧀
   > Lomo Roquefort: bife de lomo, lechuga, tomate y salsa roquefort, con papas. $14.000.
-- **Llamado a la acción:** "Pedilo por WhatsApp: 385 456-6585".
+- **Llamado a la acción:** "Pedilo por WhatsApp: 385 456-6585 o 385 444-4487".
 - **Instagram:** encuesta "¿Ya lo probaste? 🙋 Sí / 🤤 Todavía no" + sticker de enlace.
 - **Facebook:** "¿Te gusta el roquefort? Este lomo es para vos. Con delivery o retiro en Mitre 146."
 - **WhatsApp:** "Hoy te recomiendo el Lomo Roquefort 🧀 ¿Te lo preparo? Respondeme este estado y lo armamos."
@@ -71,7 +71,7 @@ Cada día suma **un estado especial** con un formato distinto. Las historias de 
 - **Texto:**
   > Solo hoy viernes ⏰ 2 lomos con papas por $22.000.
   > Mañana vuelve a su precio normal.
-- **Llamado a la acción:** "Pedí antes de que termine el día: 385 456-6585".
+- **Llamado a la acción:** "Pedí antes de que termine el día: 385 456-6585 o 385 444-4487".
 - **Instagram:** sticker de **cuenta regresiva** hasta las 23:59 + enlace.
 - **Facebook:** "Viernes de lomo para dos, solo por hoy. Delivery o retiro en Mitre 146."
 - **WhatsApp:** "Solo por hoy: 2 lomos a $22.000 🥩🥩 Si querés, te los reservo. ¡Respondeme!"
@@ -85,7 +85,7 @@ Cada día suma **un estado especial** con un formato distinto. Las historias de 
 - **Texto:**
   > Así se arma tu pedido 👀 (spoiler: con mucho queso)
   > Todo hecho en el momento, en Mitre 146.
-- **Llamado a la acción:** "¿Se te antojó? Escribinos al 385 456-6585".
+- **Llamado a la acción:** "¿Se te antojó? Escribinos al 385 456-6585 o 385 444-4487".
 - **Instagram:** pregunta "¿Qué querés que preparemos en el próximo video?" + enlace.
 - **Facebook:** "Sábado a full en la cocina 🔥 Gracias, Frías, por tantos pedidos."
 - **WhatsApp:** "Así estamos ahora en la cocina 🔥 ¿Te sumás? Mandame tu pedido."
@@ -116,7 +116,7 @@ Cada día suma **un estado especial** con un formato distinto. Las historias de 
   > 2️⃣ Delivery (con dirección) o retiro
   > 3️⃣ Cómo pagás
   > Feriado y abiertos hasta las 3 AM.
-- **Llamado a la acción:** "Mandalo al 385 456-6585".
+- **Llamado a la acción:** "Mandalo al 385 456-6585 o 385 444-4487".
 - **Instagram:** sticker de enlace "PEDÍ ACÁ".
 - **Facebook:** el mismo texto, más "¡Abiertos en el feriado!".
 - **WhatsApp:** "Tip para que tu pedido llegue volando 🛵: mandame en un solo mensaje qué querés, si es delivery o retiro, y cómo pagás."

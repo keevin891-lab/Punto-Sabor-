@@ -16,7 +16,7 @@
 > - **Tipografía:** títulos enormes en letra tipo pincel o brush, en blanco y amarillo, con trazos de pincel rojo detrás de los subtítulos.
 > - **Precios:** en etiquetas amarillas con texto negro.
 > - **Comida:** fotorrealista y muy apetitosa, sobre papel a cuadros blanco y negro y mesa de madera, con queso derretido, vapor y luz cálida.
-> - **Siempre** agregá abajo una franja con "📲 WhatsApp 385 456-6585 · Mitre 146, frente a la plaza 9 de Julio".
+> - **Siempre** agregá abajo una franja con "📲 WhatsApp 385 456-6585 / 385 444-4487 · Mitre 146, frente a la plaza 9 de Julio".
 > - **Formato:** vertical 4:5 (1080×1350) para el feed y 9:16 (1080×1920) cuando te pida una historia.
 > - Escribí los textos **exactamente** como te los paso, sin errores de ortografía.
 > Respondé "Listo" y esperá mi primer pedido.
@@ -28,7 +28,7 @@
 
 ## Datos fijos
 
-- **WhatsApp:** 385 456-6585 · **Link directo:** `https://wa.me/5493854566585`
+- **WhatsApp:** 385 456-6585 y 385 444-4487 · **Links directos:** `https://wa.me/5493854566585` y `https://wa.me/5493854444487`
 - **Instagram:** @punto.sabor9julio
 - **Dirección:** Mitre 146, frente a la plaza 9 de Julio, Frías (local al paso)
 - **Carta y precios:** ver `prompts/publicidad-diaria-punto-sabor.md`

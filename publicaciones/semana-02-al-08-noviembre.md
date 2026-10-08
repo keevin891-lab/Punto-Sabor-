@@ -18,14 +18,14 @@
 **Instagram + página de Facebook:**
 > Cobraste. Ahora date el gusto que te merecés 🏆
 > Lomo Gold: bife de lomo, panceta, cheddar y cebolla morada salteada, con porción de papas. $14.000.
-> 📲 Pedí por WhatsApp al 385 456-6585
+> 📲 Pedí por WhatsApp al 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Mitre 146, Frías
 
 **Grupos de Frías:**
-> Buenas noches, Frías 👋 Arrancó el mes: en Punto Sabor tenemos el Lomo Gold con papas a $14.000. Delivery o retiro en Mitre 146, frente a la plaza. Pedidos al 385 456-6585.
+> Buenas noches, Frías 👋 Arrancó el mes: en Punto Sabor tenemos el Lomo Gold con papas a $14.000. Delivery o retiro en Mitre 146, frente a la plaza. Pedidos al 385 456-6585 o 385 444-4487.
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "DATE EL GUSTO". Lomito con panceta crocante, cheddar y cebolla morada, con papas, sobre papel a cuadros. Etiqueta amarilla: "LOMO GOLD $14.000". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "DATE EL GUSTO". Lomito con panceta crocante, cheddar y cebolla morada, con papas, sobre papel a cuadros. Etiqueta amarilla: "LOMO GOLD $14.000". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ### 23:00 hs: Pizza Roquefort ($12.000)
 
@@ -34,11 +34,11 @@
 **Instagram + página de Facebook:**
 > Para los que de noche piden algo con sabor de verdad 🧀
 > Pizza Roquefort, de los nuevos sabores: $12.000.
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Mitre 146, Frías
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "SABOR DE VERDAD". Pizza roquefort gratinada sobre tabla de madera. Etiqueta amarilla: "PIZZA ROQUEFORT $12.000". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "SABOR DE VERDAD". Pizza roquefort gratinada sobre tabla de madera. Etiqueta amarilla: "PIZZA ROQUEFORT $12.000". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ---
 
@@ -51,11 +51,11 @@
 **Instagram + página de Facebook:**
 > Cheddar y cebolla caramelizada sobre doble medallón 🍔
 > Fugazza doble, en pan de la casa, con porción de papas: $11.000.
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Mitre 146, Frías
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "MARTES RESUELTO". Hamburguesa doble con cheddar derretido y cebolla caramelizada, con papas. Etiqueta amarilla: "FUGAZZA DOBLE $11.000". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "MARTES RESUELTO". Hamburguesa doble con cheddar derretido y cebolla caramelizada, con papas. Etiqueta amarilla: "FUGAZZA DOBLE $11.000". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ### 23:00 hs: Pizza Muzza con huevo ($11.000)
 
@@ -64,11 +64,11 @@
 **Instagram + página de Facebook:**
 > Muzza con huevo a la medianoche: un clásico que no falla 🍕🍳
 > $11.000, recién salida del horno.
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Mitre 146, Frías
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fachada roja del local de noche. Título grande en brush: "UN CLÁSICO". Pizza muzzarella con huevos fritos encima, sobre tabla de madera. Etiqueta amarilla: "MUZZA CON HUEVO $11.000". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fachada roja del local de noche. Título grande en brush: "UN CLÁSICO". Pizza muzzarella con huevos fritos encima, sobre tabla de madera. Etiqueta amarilla: "MUZZA CON HUEVO $11.000". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ---
 
@@ -81,14 +81,14 @@
 **Instagram + página de Facebook:**
 > Milanesa con todo 🥪
 > Completa: lechuga, tomate, huevo, jamón, queso y mayonesa casera, en pan de la casa y con porción de papas. $13.000.
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Mitre 146, Frías
 
 **Grupos de Frías:**
-> Hola, vecinos 🙌 Hoy en Punto Sabor: milanesa completa con papas a $13.000. Delivery o retiro en Mitre 146. Pedidos al 385 456-6585.
+> Hola, vecinos 🙌 Hoy en Punto Sabor: milanesa completa con papas a $13.000. Delivery o retiro en Mitre 146. Pedidos al 385 456-6585 o 385 444-4487.
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "MILANESA CON TODO". Sándwich de milanesa completo, con papas, sobre papel a cuadros. Etiqueta amarilla: "COMPLETA $13.000". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "MILANESA CON TODO". Sándwich de milanesa completo, con papas, sobre papel a cuadros. Etiqueta amarilla: "COMPLETA $13.000". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ### 23:00 hs: Lomo Fugazza ($14.000)
 
@@ -97,11 +97,11 @@
 **Instagram + página de Facebook:**
 > Bife de lomo, cheddar y cebolla caramelizada. ¿Hace falta decir más? 🧅🧀
 > Lomo Fugazza con porción de papas: $14.000.
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Mitre 146, Frías
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "¿HACE FALTA DECIR MÁS?". Lomito con cheddar y cebolla caramelizada brillante. Etiqueta amarilla: "LOMO FUGAZZA $14.000". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "¿HACE FALTA DECIR MÁS?". Lomito con cheddar y cebolla caramelizada brillante. Etiqueta amarilla: "LOMO FUGAZZA $14.000". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ---
 
@@ -114,11 +114,11 @@
 **Instagram + página de Facebook:**
 > Jueves de combo 🍔🍟🥤
 > Hamburguesa, papas y gaseosa por $10.000. Todo en uno, sin sacar cuentas.
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Mitre 146, Frías
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "JUEVES DE COMBO". Hamburguesa completa, papas fritas y una gaseosa fría, sobre papel a cuadros. Etiqueta amarilla: "$10.000". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "JUEVES DE COMBO". Hamburguesa completa, papas fritas y una gaseosa fría, sobre papel a cuadros. Etiqueta amarilla: "$10.000". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ### 23:00 hs: Pizza Argentina ($13.000)
 
@@ -127,11 +127,11 @@
 **Instagram + página de Facebook:**
 > Papas fritas arriba de la pizza 🍕🍟 Si no la probaste, hoy es el día.
 > Pizza Argentina: papas fritas, huevo, jamón y muzzarella. $13.000.
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Mitre 146, Frías
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "HOY ES EL DÍA". Pizza cubierta de papas fritas, huevos, jamón y muzzarella. Etiqueta amarilla: "PIZZA ARGENTINA $13.000". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "HOY ES EL DÍA". Pizza cubierta de papas fritas, huevos, jamón y muzzarella. Etiqueta amarilla: "PIZZA ARGENTINA $13.000". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ---
 
@@ -145,14 +145,14 @@
 > Viernes de amigos 🙌 2 lomos con papas por $22.000.
 > Uno para vos y otro para el que siempre dice "pedí vos".
 > ⚠️ Los viernes hay muchos pedidos: pedí temprano.
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Mitre 146, Frías
 
 **Grupos de Frías:**
-> ¡Llegó el viernes, Frías! 🎉 En Punto Sabor: 2 lomos a $22.000, 2 pizzas a $21.000 y 2 hamburguesas + papas a $15.000. Pidan temprano al 385 456-6585 😉
+> ¡Llegó el viernes, Frías! 🎉 En Punto Sabor: 2 lomos a $22.000, 2 pizzas a $21.000 y 2 hamburguesas + papas a $15.000. Pidan temprano al 385 456-6585 o 385 444-4487 😉
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fachada roja del local de noche. Título grande en brush: "VIERNES DE AMIGOS". Dos lomitos completos con papas. Etiqueta amarilla: "2 LOMOS $22.000". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fachada roja del local de noche. Título grande en brush: "VIERNES DE AMIGOS". Dos lomitos completos con papas. Etiqueta amarilla: "2 LOMOS $22.000". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ### 23:00 hs: Las promos del viernes
 
@@ -163,11 +163,11 @@
 > 🍕 2 pizzas a elección: $21.000
 > 🍔 2 hamburguesas + papas: $15.000
 > 🌭 Pancho + lata: $5.000
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Mitre 146, Frías
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "ELEGÍ LA TUYA". Tres recuadros con borde amarillo: "2 PIZZAS $21.000", "2 HAMBURGUESAS + PAPAS $15.000" y "PANCHO + LATA $5.000". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "ELEGÍ LA TUYA". Tres recuadros con borde amarillo: "2 PIZZAS $21.000", "2 HAMBURGUESAS + PAPAS $15.000" y "PANCHO + LATA $5.000". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ---
 
@@ -180,11 +180,11 @@
 **Instagram + página de Facebook:**
 > Sábado en familia: 2 pizzas a elección y nadie cocina 🍕🍕
 > $21.000 y cada uno elige su sabor.
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Mitre 146, Frías
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "NADIE COCINA". Dos pizzas enteras sobre tablas de madera. Etiqueta amarilla: "2 PIZZAS $21.000". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "NADIE COCINA". Dos pizzas enteras sobre tablas de madera. Etiqueta amarilla: "2 PIZZAS $21.000". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ### 23:00 hs: Hamburguesa Gold ($12.000)
 
@@ -193,11 +193,11 @@
 **Instagram + página de Facebook:**
 > Sábado a la noche pide algo de oro 🏆
 > Hamburguesa Gold: doble medallón, cheddar, panceta y cebolla morada salteada, con papas. $12.000.
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Mitre 146, Frías
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fondo negro con destellos dorados. Título grande en brush: "ALGO DE ORO". Hamburguesa doble con cheddar, panceta y cebolla morada. Etiqueta amarilla: "GOLD $12.000". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fondo negro con destellos dorados. Título grande en brush: "ALGO DE ORO". Hamburguesa doble con cheddar, panceta y cebolla morada. Etiqueta amarilla: "GOLD $12.000". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ---
 
@@ -210,14 +210,14 @@
 **Instagram + página de Facebook:**
 > Domingo tranqui, sabor intenso 🧀
 > Burger Roquefort: medallón de carne, lechuga, tomate y salsa roquefort, con papas. $12.000.
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Mitre 146, Frías
 
 **Grupos de Frías:**
-> Buenas, vecinos 👋 Para cerrar el finde, en Punto Sabor está la Burger Roquefort con papas a $12.000. Pedidos al 385 456-6585.
+> Buenas, vecinos 👋 Para cerrar el finde, en Punto Sabor está la Burger Roquefort con papas a $12.000. Pedidos al 385 456-6585 o 385 444-4487.
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "DOMINGO TRANQUI". Hamburguesa con salsa roquefort chorreando, lechuga y tomate. Etiqueta amarilla: "BURGER ROQUEFORT $12.000". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fondo negro. Título grande en brush: "DOMINGO TRANQUI". Hamburguesa con salsa roquefort chorreando, lechuga y tomate. Etiqueta amarilla: "BURGER ROQUEFORT $12.000". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ### 23:00 hs: Se viene el Día de la Tradición
 
@@ -226,11 +226,11 @@
 **Instagram + página de Facebook:**
 > El martes 10 es el Día de la Tradición 🇦🇷
 > Y acá tenemos una Milanesa Criolla que está a la altura: jamón, queso, huevo y salsa criolla, con papas. $13.000.
-> 📲 385 456-6585
+> 📲 385 456-6585 o 385 444-4487
 > 📍 Punto Sabor, Mitre 146, Frías
 
 **Pedido de imagen:**
-> Publicación 4:5 con el estilo Punto Sabor, fondo negro con detalles celestes y blancos. Título grande en brush: "DÍA DE LA TRADICIÓN". Sándwich de milanesa criolla. Etiqueta amarilla: "MILANESA CRIOLLA $13.000". Abajo: "📲 WhatsApp 385 456-6585".
+> Publicación 4:5 con el estilo Punto Sabor, fondo negro con detalles celestes y blancos. Título grande en brush: "DÍA DE LA TRADICIÓN". Sándwich de milanesa criolla. Etiqueta amarilla: "MILANESA CRIOLLA $13.000". Abajo: "📲 WhatsApp 385 456-6585 / 385 444-4487".
 
 ---
 
